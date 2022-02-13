@@ -1,27 +1,13 @@
-# Mypersonalwebsite
+# My personal website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+This project is my website basically.
 
-## Development server
+## Structure
+- About me
+- Blog
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### About me
+This page includes all my personal information like projects that I developed or contributed. You can also discover my social accounts, my personal stuff like my hobbies and my personality in this page.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Blog 
+I love to share knowledge so I will be posting know-how's, coding tutorials and challanges, my researchs and practises. You'll have idea about my technical skills if you take a look my blog.
